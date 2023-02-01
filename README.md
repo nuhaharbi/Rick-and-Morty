@@ -4,4 +4,4 @@ An app that displays the characters of Rick and Morty show by using [Rick and Mo
 Created this app mainly for practice using Alamofire and customize collectionview.
 
 # Demo
-![Demo](https://im2.ezgif.com/tmp/ezgif-2-9514cc7745.gif)
+![Demo](https://s9.gifyu.com/images/ezgif-2-9514cc7745.gif)
